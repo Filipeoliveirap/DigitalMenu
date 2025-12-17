@@ -1,5 +1,6 @@
 package com.digitalmenu.backend.business.DTOs.usersDTOS;
 
+import com.digitalmenu.backend.infrastructure.model.UserType;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
@@ -25,4 +26,5 @@ public class RegisterRequestDTO {
     @Size(min = 6, message = "Senha deve ter pelo menos 6 caracteres")
     private String password;
 
+    private UserType type;
 }

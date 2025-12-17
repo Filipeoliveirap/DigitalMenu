@@ -7,6 +7,6 @@ import lombok.*;
 @AllArgsConstructor
 @Builder
 public class RegisterResponseDTO {
-    private String email;
+    private String name;
 
 }
