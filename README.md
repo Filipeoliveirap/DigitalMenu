@@ -3,7 +3,7 @@
 A professional and scalable digital menu system built for Android, designed for restaurants to easily present and manage their menus. This project follows real-world development standards and clean architecture.
 
 ![Platform](https://img.shields.io/badge/platform-Android-blue)
-![Backend](https://img.shields.io/badge/backend-Kotlin%20%7C%20Spring%20Boot-orange)
+![Backend](https://img.shields.io/badge/backend-Java%20%7C%20Spring%20Boot-orange)
 ![Frontend](https://img.shields.io/badge/frontend-React%20Native%20%7C%20TypeScript-green)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 
@@ -18,14 +18,15 @@ A professional and scalable digital menu system built for Android, designed for 
 ## 🧑‍💻 Technologies Used
 
 ### 🔷 Frontend
+
 - **React Native** (Expo)
 - **TypeScript**
 - React Navigation
 - AsyncStorage (for local cache)
-- Tailwind CSS (via NativeWind)
 
 ### 🔶 Backend
-- **Kotlin** with Spring Boot
+
+- **Java** with Spring Boot
 - PostgreSQL
 - Docker
 - CI/CD (GitHub Actions)
@@ -37,13 +38,13 @@ A professional and scalable digital menu system built for Android, designed for 
 
 ## ✨ Planned Features
 
-- 📱 Category-based menu navigation  
-- 🍽️ Add, update, and delete menu items (name, description, price, image)  
-- 🧾 Order overview and sales reports (PDF export)  
-- 🔐 Admin panel with secure login  
-- 💾 Offline caching for faster user experience  
-- 📊 Dashboard for analytics (e.g., most viewed dishes)  
-- 📬 Email reports and alerts  
+- 📱 Category-based menu navigation
+- 🍽️ Add, update, and delete menu items (name, description, price, image)
+- 🧾 Order overview and sales reports (PDF export)
+- 🔐 Admin panel with secure login
+- 💾 Offline caching for faster user experience
+- 📊 Dashboard for analytics (e.g., most viewed dishes)
+- 📬 Email reports and alerts
 - 📦 Dockerized backend for easy deployment
 
 ---
@@ -88,11 +89,7 @@ This is a solo project created for learning and portfolio purposes. Suggestions 
 
 MIT License — feel free to use, improve, and share.
 
-
-
 ---
-
-
 
 # 🍽️ Cardápio Digital
 
@@ -114,6 +111,7 @@ O **Cardápio Digital** é um sistema mobile-first focado em restaurantes modern
 ## 🧑‍💻 Tecnologias Utilizadas
 
 ### 🔷 Frontend
+
 - **React Native** (Expo)
 - **TypeScript**
 - React Navigation
@@ -121,6 +119,7 @@ O **Cardápio Digital** é um sistema mobile-first focado em restaurantes modern
 - Tailwind CSS (via NativeWind)
 
 ### 🔶 Backend
+
 - **Kotlin** com Spring Boot
 - PostgreSQL
 - Docker
@@ -133,13 +132,13 @@ O **Cardápio Digital** é um sistema mobile-first focado em restaurantes modern
 
 ## ✨ Funcionalidades Planejadas
 
-- 📱 Navegação por categorias no cardápio  
-- 🍽️ Adicionar, atualizar e remover itens do cardápio (nome, descrição, preço, imagem)  
-- 🧾 Visão de pedidos e relatórios de vendas (exportação em PDF)  
-- 🔐 Painel administrativo com login seguro  
-- 💾 Cache offline para experiência mais rápida  
-- 📊 Dashboard com análises (ex: pratos mais visualizados)  
-- 📬 Envio de relatórios e alertas por e-mail  
+- 📱 Navegação por categorias no cardápio
+- 🍽️ Adicionar, atualizar e remover itens do cardápio (nome, descrição, preço, imagem)
+- 🧾 Visão de pedidos e relatórios de vendas (exportação em PDF)
+- 🔐 Painel administrativo com login seguro
+- 💾 Cache offline para experiência mais rápida
+- 📊 Dashboard com análises (ex: pratos mais visualizados)
+- 📬 Envio de relatórios e alertas por e-mail
 - 📦 Backend com Docker para facilitar o deploy
 
 ---
@@ -183,5 +182,3 @@ Este é um projeto individual criado para fins de aprendizado e portfólio. Suge
 ## 📄 Licença
 
 Licença MIT — fique à vontade para usar, melhorar e compartilhar.
-
-
